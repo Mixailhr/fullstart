@@ -1,0 +1,457 @@
+.dots {
+  position:absolute;
+  left:50%;  
+}
+.dot {
+  position:relative;
+  z-index: -1;
+  height: 5px;
+  width: 5px;
+  border-radius: 50%;
+}
+
+.dot-row-1.dot-1 {
+  background: #ccc;
+  -webkit-animation: rotate-1 10s infinite linear;
+          animation: rotate-1 10s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-1 {
+  background: #ccc;
+  -webkit-animation: rotate-2 8s infinite linear;
+          animation: rotate-2 8s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-1 {
+  background: #ccc;
+  -webkit-animation: rotate-3 6s infinite linear;
+          animation: rotate-3 6s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-2 {
+  background: #1fa67a;
+  -webkit-animation: rotate-1 10.1s infinite linear;
+          animation: rotate-1 10.1s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-2 {
+  background: #1fa67a;
+  -webkit-animation: rotate-2 8.08s infinite linear;
+          animation: rotate-2 8.08s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-2 {
+  background: #1fa67a;
+  -webkit-animation: rotate-3 6.06s infinite linear;
+          animation: rotate-3 6.06s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-3 {
+  background: #5371CF;
+  -webkit-animation: rotate-1 10.2s infinite linear;
+          animation: rotate-1 10.2s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-3 {
+  background: #5371CF;
+  -webkit-animation: rotate-2 8.16s infinite linear;
+          animation: rotate-2 8.16s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-3 {
+  background: #5371CF;
+  -webkit-animation: rotate-3 6.12s infinite linear;
+          animation: rotate-3 6.12s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-4 {
+  background: #D7812D;
+  -webkit-animation: rotate-1 10.3s infinite linear;
+          animation: rotate-1 10.3s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-4 {
+  background: #D7812D;
+  -webkit-animation: rotate-2 8.24s infinite linear;
+          animation: rotate-2 8.24s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-4 {
+  background: #D7812D;
+  -webkit-animation: rotate-3 6.18s infinite linear;
+          animation: rotate-3 6.18s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-5 {
+  background: #E8E76B;
+  -webkit-animation: rotate-1 10.4s infinite linear;
+          animation: rotate-1 10.4s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-5 {
+  background: #E8E76B;
+  -webkit-animation: rotate-2 8.32s infinite linear;
+          animation: rotate-2 8.32s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-5 {
+  background: #E8E76B;
+  -webkit-animation: rotate-3 6.24s infinite linear;
+          animation: rotate-3 6.24s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-6 {
+  background: #CF3838;
+  -webkit-animation: rotate-1 10.5s infinite linear;
+          animation: rotate-1 10.5s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-6 {
+  background: #CF3838;
+  -webkit-animation: rotate-2 8.4s infinite linear;
+          animation: rotate-2 8.4s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-6 {
+  background: #CF3838;
+  -webkit-animation: rotate-3 6.3s infinite linear;
+          animation: rotate-3 6.3s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-7 {
+  background: #633099;
+  -webkit-animation: rotate-1 10.6s infinite linear;
+          animation: rotate-1 10.6s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-7 {
+  background: #633099;
+  -webkit-animation: rotate-2 8.48s infinite linear;
+          animation: rotate-2 8.48s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-7 {
+  background: #633099;
+  -webkit-animation: rotate-3 6.36s infinite linear;
+          animation: rotate-3 6.36s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-8 {
+  background: #70B5CA;
+  -webkit-animation: rotate-1 10.7s infinite linear;
+          animation: rotate-1 10.7s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-8 {
+  background: #70B5CA;
+  -webkit-animation: rotate-2 8.56s infinite linear;
+          animation: rotate-2 8.56s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-8 {
+  background: #70B5CA;
+  -webkit-animation: rotate-3 6.42s infinite linear;
+          animation: rotate-3 6.42s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-9 {
+  background: #ccc;
+  -webkit-animation: rotate-1 10.8s infinite linear;
+          animation: rotate-1 10.8s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-9 {
+  background: #ccc;
+  -webkit-animation: rotate-2 8.64s infinite linear;
+          animation: rotate-2 8.64s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-9 {
+  background: #ccc;
+  -webkit-animation: rotate-3 6.48s infinite linear;
+          animation: rotate-3 6.48s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-10 {
+  background: #1fa67a;
+  -webkit-animation: rotate-1 10.9s infinite linear;
+          animation: rotate-1 10.9s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-10 {
+  background: #1fa67a;
+  -webkit-animation: rotate-2 8.72s infinite linear;
+          animation: rotate-2 8.72s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-10 {
+  background: #1fa67a;
+  -webkit-animation: rotate-3 6.54s infinite linear;
+          animation: rotate-3 6.54s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-11 {
+  background: #5371CF;
+  -webkit-animation: rotate-1 11s infinite linear;
+          animation: rotate-1 11s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-11 {
+  background: #5371CF;
+  -webkit-animation: rotate-2 8.8s infinite linear;
+          animation: rotate-2 8.8s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-11 {
+  background: #5371CF;
+  -webkit-animation: rotate-3 6.6s infinite linear;
+          animation: rotate-3 6.6s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-12 {
+  background: #D7812D;
+  -webkit-animation: rotate-1 11.1s infinite linear;
+          animation: rotate-1 11.1s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-12 {
+  background: #D7812D;
+  -webkit-animation: rotate-2 8.88s infinite linear;
+          animation: rotate-2 8.88s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-12 {
+  background: #D7812D;
+  -webkit-animation: rotate-3 6.66s infinite linear;
+          animation: rotate-3 6.66s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-13 {
+  background: #E8E76B;
+  -webkit-animation: rotate-1 11.2s infinite linear;
+          animation: rotate-1 11.2s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-13 {
+  background: #E8E76B;
+  -webkit-animation: rotate-2 8.96s infinite linear;
+          animation: rotate-2 8.96s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-13 {
+  background: #E8E76B;
+  -webkit-animation: rotate-3 6.72s infinite linear;
+          animation: rotate-3 6.72s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-14 {
+  background: #CF3838;
+  -webkit-animation: rotate-1 11.3s infinite linear;
+          animation: rotate-1 11.3s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-14 {
+  background: #CF3838;
+  -webkit-animation: rotate-2 9.04s infinite linear;
+          animation: rotate-2 9.04s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-14 {
+  background: #CF3838;
+  -webkit-animation: rotate-3 6.78s infinite linear;
+          animation: rotate-3 6.78s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-15 {
+  background: #633099;
+  -webkit-animation: rotate-1 11.4s infinite linear;
+          animation: rotate-1 11.4s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-15 {
+  background: #633099;
+  -webkit-animation: rotate-2 9.12s infinite linear;
+          animation: rotate-2 9.12s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-15 {
+  background: #633099;
+  -webkit-animation: rotate-3 6.84s infinite linear;
+          animation: rotate-3 6.84s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-1.dot-16 {
+  background: #70B5CA;
+  -webkit-animation: rotate-1 11.5s infinite linear;
+          animation: rotate-1 11.5s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-2.dot-16 {
+  background: #70B5CA;
+  -webkit-animation: rotate-2 9.2s infinite linear;
+          animation: rotate-2 9.2s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+.dot-row-3.dot-16 {
+  background: #70B5CA;
+  -webkit-animation: rotate-3 6.9s infinite linear;
+          animation: rotate-3 6.9s infinite linear;
+  -webkit-animation-delay: -60s;
+          animation-delay: -60s;
+}
+
+@-webkit-keyframes rotate-1 {
+  from {
+    -webkit-transform: rotate(0deg) translate(-230px) rotate(0deg);
+            transform: rotate(0deg) translate(-230px) rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg) translate(-230px) rotate(-360deg);
+            transform: rotate(360deg) translate(-230px) rotate(-360deg);
+  }
+}
+
+@keyframes rotate-1 {
+  from {
+    -webkit-transform: rotate(0deg) translate(-230px) rotate(0deg);
+            transform: rotate(0deg) translate(-230px) rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg) translate(-230px) rotate(-360deg);
+            transform: rotate(360deg) translate(-230px) rotate(-360deg);
+  }
+}
+@-webkit-keyframes rotate-2 {
+  from {
+    -webkit-transform: rotate(0deg) translate(-260px) rotate(0deg);
+            transform: rotate(0deg) translate(-260px) rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg) translate(-260px) rotate(-360deg);
+            transform: rotate(360deg) translate(-260px) rotate(-360deg);
+  }
+}
+@keyframes rotate-2 {
+  from {
+    -webkit-transform: rotate(0deg) translate(-260px) rotate(0deg);
+            transform: rotate(0deg) translate(-260px) rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg) translate(-260px) rotate(-360deg);
+            transform: rotate(360deg) translate(-260px) rotate(-360deg);
+  }
+}
+@-webkit-keyframes rotate-3 {
+  from {
+    -webkit-transform: rotate(0deg) translate(-280px) rotate(0deg);
+            transform: rotate(0deg) translate(-280px) rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg) translate(-280px) rotate(-360deg);
+            transform: rotate(360deg) translate(-280px) rotate(-360deg);
+  }
+}
+@keyframes rotate-3 {
+  from {
+    -webkit-transform: rotate(0deg) translate(-280px) rotate(0deg);
+            transform: rotate(0deg) translate(-280px) rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg) translate(-280px) rotate(-360deg);
+            transform: rotate(360deg) translate(-280px) rotate(-360deg);
+  }
+}
