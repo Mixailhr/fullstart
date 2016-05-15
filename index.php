@@ -175,6 +175,19 @@
             </div>
         </div>
     </section>
+
+    <section class="bg-green">
+        <container>
+            <row>
+                <div class="col-sm-3 text-center">
+                    <?php include 'include/vstavka.php';?>
+                </div>
+                <div class="col-sm-3 text-center">2-я Ячейка</div>
+                <div class="col-sm-3 text-center">3-я Ячейка</div>
+                <div class="col-sm-3 text-center">4-я Ячейка</div>
+            </row>
+        </container>
+    </section>
 	
 
     <section class="bg-green" id="offer">
